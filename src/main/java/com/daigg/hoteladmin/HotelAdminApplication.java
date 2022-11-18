@@ -1,8 +1,11 @@
-package com.daigg.hotelAdmin;
+package com.daigg.hoteladmin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author daiyang
+ */
 @SpringBootApplication
 public class HotelAdminApplication {
 
